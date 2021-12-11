@@ -101,3 +101,7 @@ i{
 .clearAll:hover {
   color: red;
 }
+
+.completed {
+  text-decoration: line-through;
+}
